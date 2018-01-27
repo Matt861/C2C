@@ -1,0 +1,3 @@
+gcc -o C2C Server.c
+
+./C2C
